@@ -3,7 +3,7 @@
 - **1**: Create a new database called `"CodingGita Students"`.
 
   ```js
-  use codinggitastudents;
+  use codinggita3;
   ```
 
 - **2**: Create two collections: `students` and `courses`.

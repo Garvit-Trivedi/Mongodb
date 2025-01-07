@@ -2,7 +2,7 @@
 
 **1: Create the database**
 ```js
-use Assignment2
+use codinggita2
 ```
 
 **2: Create the students collection**

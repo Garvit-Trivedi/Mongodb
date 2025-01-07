@@ -132,12 +132,12 @@ db.students.find({ "coursesEnrolled": "CS101" });
 **6:Update the courses for a specific student (e.g., adding a new course).**
 
 - Update in students. 
-```js
-db.students.updateOne(
+  ```js
+  db.students.updateOne(
   { "name": "Divy" },
   { $push: { "coursesEnrolled": "CS102" } }
-);
-```
+  );
+  ```
 
 - Update in courses. 
 
